@@ -1,3 +1,3 @@
 # Image_Processing
 
-![image](https://user-images.githubusercontent.com/67123399/159832597-0966817d-d24d-4dc5-ae70-cd3b5b9c9afb.png)
+![image](https://user-images.githubusercontent.com/67123399/159833223-54b82982-b5ca-45c4-b8b2-fb02141126d3.png)
